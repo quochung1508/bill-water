@@ -1,0 +1,18 @@
+C:\Users\adminn\source\repos\Bill Water\bin\Debug\net8.0-windows\Bill Water.exe
+C:\Users\adminn\source\repos\Bill Water\bin\Debug\net8.0-windows\Bill Water.dll
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill_Water.Form1.resources
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill_Water.Form2.resources
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill_Water.Properties.Resources.resources
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill Water.csproj.GenerateResource.cache
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill Water.AssemblyInfoInputs.cache
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill Water.AssemblyInfo.cs
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill Water.csproj.CoreCompileInputs.cache
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill Water.dll
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\refint\Bill Water.dll
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill Water.pdb
+C:\Users\adminn\source\repos\Bill Water\bin\Debug\net8.0-windows\Bill Water.deps.json
+C:\Users\adminn\source\repos\Bill Water\bin\Debug\net8.0-windows\Bill Water.runtimeconfig.json
+C:\Users\adminn\source\repos\Bill Water\bin\Debug\net8.0-windows\Bill Water.pdb
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\Bill Water.genruntimeconfig.cache
+C:\Users\adminn\source\repos\Bill Water\obj\Debug\net8.0-windows\ref\Bill Water.dll
